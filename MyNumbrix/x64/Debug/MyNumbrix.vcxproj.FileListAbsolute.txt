@@ -1,0 +1,3 @@
+C:\Users\bylov\source\repos\MyNumbrix\MyNumbrix\x64\Debug\MyNumbrix.vcxproj.AssemblyReference.cache
+C:\Users\bylov\source\repos\MyNumbrix\MyNumbrix\x64\Debug\MyNumbrix.MyForm.resources
+C:\Users\bylov\source\repos\MyNumbrix\MyNumbrix\x64\Debug\MyNumbrix.vcxproj.GenerateResource.cache
